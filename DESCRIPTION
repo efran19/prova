@@ -1,0 +1,14 @@
+Package: prova
+Type: Package
+Title: Addizioni
+Version: 0.1.0
+Author: Francesco Esposito
+Maintainer: Francesco Esposito <f.esposito@iconsulting.biz>
+Description: Fa le addizioni
+License: GPL2
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
